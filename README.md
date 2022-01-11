@@ -1,4 +1,4 @@
-# getting-started
+# Getting Started
 
 FIRST® Robotics Competition Control System Documentation:
 [WPI library](https://docs.wpilib.org/en/stable/)
